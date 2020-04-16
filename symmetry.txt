@@ -1,0 +1,988 @@
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 3                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		3 axes of symmetry:
+		
+		0(0)0|		
+		(0)0|0		
+		0|0(0)
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)0|0
+
+___k___ = 2:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		1|1(0)
+
+___k___ = 3:	Number of equivalence classes = 1
+		3 axes of symmetry:
+		
+		1(1)1|		
+		(1)1|1		
+		1|1(1)
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 4                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		4 axes of symmetry:
+		
+		0(0)0(0)		
+		(0)0(0)0
+
+		
+		00|00|		
+		0|00|0
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)0(0)0
+
+___k___ = 2:	Number of equivalence classes = 2
+		1 axes of symmetry:
+		
+		1|10|0
+
+		2 axes of symmetry:
+		
+		1(0)1(0)		
+		(1)0(1)0
+
+___k___ = 3:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		1(1)1(0)
+
+___k___ = 4:	Number of equivalence classes = 1
+		4 axes of symmetry:
+		
+		1(1)1(1)		
+		(1)1(1)1
+
+		
+		11|11|		
+		1|11|1
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 5                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		5 axes of symmetry:
+		
+		00(0)00|		
+		0(0)00|0		
+		(0)00|00		
+		00|00(0)		
+		0|00(0)0
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)00|00
+
+___k___ = 2:	Number of equivalence classes = 2
+		1 axes of symmetry:
+		
+		1|10(0)0
+
+		1 axes of symmetry:
+		
+		1(0)10|0
+
+___k___ = 3:	Number of equivalence classes = 2
+		1 axes of symmetry:
+		
+		1(1)10|0
+
+		1 axes of symmetry:
+		
+		1|10(1)0
+
+___k___ = 4:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		11|11(0)
+
+___k___ = 5:	Number of equivalence classes = 1
+		5 axes of symmetry:
+		
+		11(1)11|		
+		1(1)11|1		
+		(1)11|11		
+		11|11(1)		
+		1|11(1)1
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 6                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		6 axes of symmetry:
+		
+		00(0)00(0)		
+		0(0)00(0)0		
+		(0)00(0)00
+
+		
+		000|000|		
+		00|000|0		
+		0|000|00
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)00(0)00
+
+___k___ = 2:	Number of equivalence classes = 3
+		1 axes of symmetry:
+		
+		1|100|00
+
+		1 axes of symmetry:
+		
+		1(0)10(0)0
+
+		2 axes of symmetry:
+		
+		(1)00(1)00
+
+		
+		10|010|0
+
+___k___ = 3:	Number of equivalence classes = 4
+		1 axes of symmetry:
+		
+		1(1)10(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		3 axes of symmetry:
+		
+		10(1)01(0)		
+		1(0)10(1)0		
+		(1)01(0)10
+
+___k___ = 4:	Number of equivalence classes = 3
+		1 axes of symmetry:
+		
+		11|110|0
+
+		1 axes of symmetry:
+		
+		1(1)10(1)0
+
+		2 axes of symmetry:
+		
+		11(0)11(0)
+
+		
+		1|101|10
+
+___k___ = 5:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		11(1)11(0)
+
+___k___ = 6:	Number of equivalence classes = 1
+		6 axes of symmetry:
+		
+		11(1)11(1)		
+		1(1)11(1)1		
+		(1)11(1)11
+
+		
+		111|111|		
+		11|111|1		
+		1|111|11
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 7                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		7 axes of symmetry:
+		
+		000(0)000|		
+		00(0)000|0		
+		0(0)000|00		
+		(0)000|000		
+		000|000(0)		
+		00|000(0)0		
+		0|000(0)00
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)000|000
+
+___k___ = 2:	Number of equivalence classes = 3
+		1 axes of symmetry:
+		
+		1|100(0)00
+
+		1 axes of symmetry:
+		
+		1(0)100|00
+
+		1 axes of symmetry:
+		
+		10|010(0)0
+
+___k___ = 3:	Number of equivalence classes = 6
+		1 axes of symmetry:
+		
+		1(1)100|00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1|100(1)00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		10(1)010|0
+
+		1 axes of symmetry:
+		
+		100(1)001|
+
+___k___ = 4:	Number of equivalence classes = 5
+		1 axes of symmetry:
+		
+		11|110(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(0)110|0
+
+		1 axes of symmetry:
+		
+		1|101(0)10
+
+___k___ = 5:	Number of equivalence classes = 3
+		1 axes of symmetry:
+		
+		11(1)110|0
+
+		1 axes of symmetry:
+		
+		11|110(1)0
+
+		1 axes of symmetry:
+		
+		1(1)101|10
+
+___k___ = 6:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		111|111(0)
+
+___k___ = 7:	Number of equivalence classes = 1
+		7 axes of symmetry:
+		
+		111(1)111|		
+		11(1)111|1		
+		1(1)111|11		
+		(1)111|111		
+		111|111(1)		
+		11|111(1)1		
+		1|111(1)11
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 8                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		8 axes of symmetry:
+		
+		000(0)000(0)		
+		00(0)000(0)0		
+		0(0)000(0)00		
+		(0)000(0)000
+
+		
+		0000|0000|		
+		000|0000|0		
+		00|0000|00		
+		0|0000|000
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)000(0)000
+
+___k___ = 2:	Number of equivalence classes = 4
+		1 axes of symmetry:
+		
+		1|1000|000
+
+		1 axes of symmetry:
+		
+		1(0)100(0)00
+
+		1 axes of symmetry:
+		
+		10|0100|00
+
+		2 axes of symmetry:
+		
+		10(0)010(0)0		
+		(1)000(1)000
+
+___k___ = 3:	Number of equivalence classes = 8
+		1 axes of symmetry:
+		
+		1(1)100(0)00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		10(1)010(0)0
+
+		1 axes of symmetry:
+		
+		1(0)100(1)00
+
+		1 axes of symmetry:
+		
+		100(1)001(0)
+
+___k___ = 4:	Number of equivalence classes = 12
+		1 axes of symmetry:
+		
+		11|1100|00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)100(1)00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(0)110(0)0
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1|1010|010
+
+		2 axes of symmetry:
+		
+		110|0110|0		
+		1|1001|100
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		(1)100(1)001
+
+		0 axes of symmetry:
+		4 axes of symmetry:
+		
+		101(0)101(0)		
+		10(1)010(1)0		
+		1(0)101(0)10		
+		(1)010(1)010
+
+___k___ = 5:	Number of equivalence classes = 7
+		1 axes of symmetry:
+		
+		11(1)110(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)101(0)10
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(0)110(1)0
+
+___k___ = 6:	Number of equivalence classes = 4
+		1 axes of symmetry:
+		
+		111|1110|0
+
+		1 axes of symmetry:
+		
+		11(1)110(1)0
+
+		1 axes of symmetry:
+		
+		11|1101|10
+
+		2 axes of symmetry:
+		
+		111(0)111(0)		
+		1(1)101(1)10
+
+___k___ = 7:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		111(1)111(0)
+
+___k___ = 8:	Number of equivalence classes = 1
+		8 axes of symmetry:
+		
+		111(1)111(1)		
+		11(1)111(1)1		
+		1(1)111(1)11		
+		(1)111(1)111
+
+		
+		1111|1111|		
+		111|1111|1		
+		11|1111|11		
+		1|1111|111
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 9                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		9 axes of symmetry:
+		
+		0000(0)0000|		
+		000(0)0000|0		
+		00(0)0000|00		
+		0(0)0000|000		
+		(0)0000|0000		
+		0000|0000(0)		
+		000|0000(0)0		
+		00|0000(0)00		
+		0|0000(0)000
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)0000|0000
+
+___k___ = 2:	Number of equivalence classes = 4
+		1 axes of symmetry:
+		
+		1|1000(0)000
+
+		1 axes of symmetry:
+		
+		1(0)1000|000
+
+		1 axes of symmetry:
+		
+		10|0100(0)00
+
+		1 axes of symmetry:
+		
+		10(0)0100|00
+
+___k___ = 3:	Number of equivalence classes = 11
+		1 axes of symmetry:
+		
+		1(1)1000|000
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1|1000(1)000
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		10(1)0100|00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		3 axes of symmetry:
+		
+		100(1)0010|0		
+		(1)0010|0100		
+		10|0100(1)00
+
+		1 axes of symmetry:
+		
+		1000(1)0001|
+
+___k___ = 4:	Number of equivalence classes = 16
+		1 axes of symmetry:
+		
+		11|1100(0)00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(0)1100|00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1|1010(0)010
+
+		1 axes of symmetry:
+		
+		110|0110(0)0
+
+		1 axes of symmetry:
+		
+		1|1001(0)100
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		101(0)1010|0
+
+		0 axes of symmetry:
+___k___ = 5:	Number of equivalence classes = 14
+		1 axes of symmetry:
+		
+		11(1)1100|00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11|1100(1)00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)1010|010
+
+		1 axes of symmetry:
+		
+		1(1)1001|100
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		110(1)0110|0
+
+		1 axes of symmetry:
+		
+		1|1010(1)010
+
+___k___ = 6:	Number of equivalence classes = 10
+		1 axes of symmetry:
+		
+		111|1110(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11|1101(0)10
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		111(0)1110|0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		3 axes of symmetry:
+		
+		11(0)1101|10		
+		1101|1011(0)		
+		1|1011(0)110
+
+___k___ = 7:	Number of equivalence classes = 4
+		1 axes of symmetry:
+		
+		111(1)1110|0
+
+		1 axes of symmetry:
+		
+		111|1110(1)0
+
+		1 axes of symmetry:
+		
+		11(1)1101|10
+
+		1 axes of symmetry:
+		
+		11|1101(1)10
+
+___k___ = 8:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		1111|1111(0)
+
+___k___ = 9:	Number of equivalence classes = 1
+		9 axes of symmetry:
+		
+		1111(1)1111|		
+		111(1)1111|1		
+		11(1)1111|11		
+		1(1)1111|111		
+		(1)1111|1111		
+		1111|1111(1)		
+		111|1111(1)1		
+		11|1111(1)11		
+		1|1111(1)111
+
+
+
+--------------------------------------------------------------------------------------
+                             AMOUNT OF ELEMENTS == 10                               
+--------------------------------------------------------------------------------------
+___k___ = 0:	Number of equivalence classes = 1
+		10 axes of symmetry:
+		
+		0000(0)0000(0)		
+		000(0)0000(0)0		
+		00(0)0000(0)00		
+		0(0)0000(0)000		
+		(0)0000(0)0000
+
+		
+		00000|00000|		
+		0000|00000|0		
+		000|00000|00		
+		00|00000|000		
+		0|00000|0000
+
+___k___ = 1:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		(1)0000(0)0000
+
+___k___ = 2:	Number of equivalence classes = 5
+		1 axes of symmetry:
+		
+		1|10000|0000
+
+		1 axes of symmetry:
+		
+		1(0)1000(0)000
+
+		1 axes of symmetry:
+		
+		10|01000|000
+
+		1 axes of symmetry:
+		
+		10(0)0100(0)00
+
+		2 axes of symmetry:
+		
+		(1)0000(1)0000
+
+		
+		100|00100|00
+
+___k___ = 3:	Number of equivalence classes = 13
+		1 axes of symmetry:
+		
+		1(1)1000(0)000
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		10(1)0100(0)00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(0)1000(1)000
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		100(1)0010(0)0
+
+		1 axes of symmetry:
+		
+		1000(1)0001(0)
+
+___k___ = 4:	Number of equivalence classes = 25
+		1 axes of symmetry:
+		
+		11|11000|000
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)1000(1)000
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(0)1100(0)00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1|10100|0010
+
+		1 axes of symmetry:
+		
+		110|01100|00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1|10010|0100
+
+		0 axes of symmetry:
+		2 axes of symmetry:
+		
+		110(0)0110(0)0
+
+		
+		1|10001|1000
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		(1)1000(1)0001
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		101(0)1010(0)0
+
+		1 axes of symmetry:
+		
+		10(1)0100(1)00
+
+		2 axes of symmetry:
+		
+		1(0)1001(0)100
+
+		
+		1010|01010|0
+
+		1 axes of symmetry:
+		
+		(1)0100(1)0010
+
+___k___ = 5:	Number of equivalence classes = 31
+		1 axes of symmetry:
+		
+		11(1)1100(0)00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)1010(0)010
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)1001(0)100
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(0)1100(1)00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		110(1)0110(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1100(1)0011(0)
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		5 axes of symmetry:
+		
+		1010(1)0101(0)		
+		101(0)1010(1)0		
+		10(1)0101(0)10		
+		1(0)1010(1)010		
+		(1)0101(0)1010
+
+		0 axes of symmetry:
+___k___ = 6:	Number of equivalence classes = 22
+		1 axes of symmetry:
+		
+		111|11100|00
+
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(1)1100(1)00
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11|11010|010
+
+		1 axes of symmetry:
+		
+		11|11001|100
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		111(0)1110(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1(1)1010(1)010
+
+		0 axes of symmetry:
+		2 axes of symmetry:
+		
+		1(1)1001(1)100
+
+		
+		1110|01110|0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		1101|10110|0
+
+		1 axes of symmetry:
+		
+		11(0)1101(0)10
+
+		2 axes of symmetry:
+		
+		110(1)0110(1)0
+
+		
+		1|10101|1010
+
+___k___ = 7:	Number of equivalence classes = 12
+		1 axes of symmetry:
+		
+		111(1)1110(0)0
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		11(1)1101(0)10
+
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		0 axes of symmetry:
+		1 axes of symmetry:
+		
+		111(0)1110(1)0
+
+		1 axes of symmetry:
+		
+		1(1)1011(0)110
+
+___k___ = 8:	Number of equivalence classes = 5
+		1 axes of symmetry:
+		
+		1111|11110|0
+
+		1 axes of symmetry:
+		
+		111(1)1110(1)0
+
+		1 axes of symmetry:
+		
+		111|11101|10
+
+		1 axes of symmetry:
+		
+		11(1)1101(1)10
+
+		2 axes of symmetry:
+		
+		1111(0)1111(0)
+
+		
+		11|11011|110
+
+___k___ = 9:	Number of equivalence classes = 1
+		1 axes of symmetry:
+		
+		1111(1)1111(0)
+
+___k___ = 10:	Number of equivalence classes = 1
+		10 axes of symmetry:
+		
+		1111(1)1111(1)		
+		111(1)1111(1)1		
+		11(1)1111(1)11		
+		1(1)1111(1)111		
+		(1)1111(1)1111
+
+		
+		11111|11111|		
+		1111|11111|1		
+		111|11111|11		
+		11|11111|111		
+		1|11111|1111
